@@ -1,0 +1,19 @@
+@font-face{
+    font-family:"Cursive";
+    src:url("../fonts/Dancing.otf");
+}
+.cursive-font{font-family:"Cursive"}
+
+*{
+    margin:0;
+}
+.admin-body{
+    background-color:#181718;
+}
+.admin-login-box{
+    background-color:white;
+    color:black;
+}
+.max-w{
+    max-width:100%;
+}
